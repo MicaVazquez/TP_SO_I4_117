@@ -1,0 +1,29 @@
+ALFA: bengoa marianela 
+BETA: Theo Torres Carmona
+GAMMA: Micaela Vazquez 
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+Respuestas 
+A- Azul
+B- Amarillo
+C- Azul
+D- El de ALFA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E- Beta y Gamma.
+F- Que no se puede hacer la modificacion sin descargar la version anterior.
+G- Para evitar ese error cada integrante tuvo que descargar los archivos, modificarlos y subirlos pero uno a la vez y no todos juntos.Primero ALFA, despues BETA y luego GAMMA.
+H- Sube el commit de manera de forzada.
+I. Nosotros para tener la info de los puntos mencionados, hicimos un pull trayendo los cambios del compañero
+anterior,resolvimos los conflicos en los archivos afectados, realizamos un nuevo commit y haciendo push.
